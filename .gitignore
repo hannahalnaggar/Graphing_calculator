@@ -1,0 +1,14 @@
+# Visual Studio / C# typical ignores
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.user
+*.suo
+.vs/
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
